@@ -1,0 +1,6 @@
+Eimi Fukada;16;1.60;48
+Yui Hatano;20;1.80;34
+Sakura Tsuji;22;1.67;44
+Reo Saionji;33;1.34;44
+Yuri Honma;34;1.54;34
+Rena Aoi;32;1.66;45
